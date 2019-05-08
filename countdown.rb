@@ -3,7 +3,7 @@ def countdown(sec)
         puts "#{sec} second(s)!".upcase
         sec -= 1
     end
-        "happy new year!".upcase
+    "happy new year!".upcase
 end
 
 def countdown_with_sleep(sec)
